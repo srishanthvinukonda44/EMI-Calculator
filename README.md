@@ -13,9 +13,5 @@ By entering the loan amount, interest rate, and tenure, the calculator instantly
 ## 🛠️ Tech Stack
 - **HTML** – Structure of the webpage  
 - **CSS** – Styling and layout  
-- **JavaScript** – EMI calculation logic  
-
-## 📂 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/emi-calculator.git
+- **JavaScript** – EMI calculation logic
+- 
